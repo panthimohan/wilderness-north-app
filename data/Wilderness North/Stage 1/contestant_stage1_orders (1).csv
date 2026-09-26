@@ -1,0 +1,264 @@
+batch_id,order_date,order_id,household_id,destination_community,product_id,product_name,weight_lb,length_in,width_in,height_in
+1,2026-06-01,353094,416,Webequie,5022,Apricot,0.0772,1.772,1.772,1.772
+1,2026-06-01,353094,416,Webequie,48034,Peppered Turkey Jerky,0.2028,1.969,6.299,9.449
+1,2026-06-01,353094,416,Webequie,25105,Organic Ground Golden Flax Seeds,1.0009,9.055,5.906,1.969
+1,2026-06-01,353094,416,Webequie,12845,Chopped Walnuts,0.5004,1.969,4.724,7.874
+1,2026-06-01,353094,416,Webequie,40545,Berry Medley,1.0,1.969,5.906,9.055
+1,2026-06-01,353094,416,Webequie,7054,Low Fat Plain Yogurt,2.0,3.74,3.74,7.874
+1,2026-06-01,353094,416,Webequie,14650,Vanilla Whey Protein Powder,1.9996,5.512,5.512,9.843
+1,2026-06-01,353094,416,Webequie,21903,Organic Baby Spinach,0.3125,3.0,7.799,10.0
+1,2026-06-01,677082,916,Webequie,21782,Baked Whole Grain Wheat Fire Roasted Tomato & Olive Oil Crackers,0.3748,2.756,7.48,1.969
+1,2026-06-01,677082,916,Webequie,47626,Large Lemon,0.3086,3.15,2.953,2.953
+1,2026-06-01,813240,31,Webequie,23580,Outshine Lime Fruit Bars,0.5952,6.299,3.937,1.772
+1,2026-06-01,813240,31,Webequie,44100,Drumstick Variety Pack Frozen Dairy Dessert Cones,1.1244,4.724,7.874,9.449
+1,2026-06-01,813240,31,Webequie,42356,Strawberry Preserves,1.125,2.929,2.929,5.15
+1,2026-06-01,813240,31,Webequie,12962,Apricot Preserves,1.125,2.929,2.929,5.15
+1,2026-06-01,813240,31,Webequie,13255,Family Size Cookie Pack,1.4991,3.15,8.268,10.63
+1,2026-06-01,813240,31,Webequie,11148,Sparkling Cranberry Juice,4.1667,2.756,2.756,10.433
+1,2026-06-01,813240,31,Webequie,43252,Italian Style Chicken Meatballs with Mozarella Cheese,1.0009,2.559,9.449,7.48
+1,2026-06-01,813240,31,Webequie,10197,Chicken Meatballs Spicy Mango & Jalapeno,1.0009,1.969,7.087,9.055
+1,2026-06-01,813240,31,Webequie,30162,Teriyaki & Pineapple Chicken Meatballs,2.875,3.15,7.874,5.906
+1,2026-06-01,813240,31,Webequie,33944,Chicken & Apple Breakfast Links,0.7496,8.661,5.906,1.575
+1,2026-06-01,813240,31,Webequie,30287,Ranch Original Topping & Dressing,1.0428,2.756,2.756,9.843
+1,2026-06-01,813240,31,Webequie,32566,Dha Omega 3 Vitamin D Milk,8.3335,3.937,3.937,10.63
+1,2026-06-01,813240,31,Webequie,24303,Spicy Mango With Jalapeño Smoked Chicken Sausage,0.7496,2.756,5.906,1.772
+1,2026-06-01,813240,31,Webequie,13385,Italian Style Smoked Chicken Sausage With Mozzarella Cheese,0.7496,2.362,6.299,9.055
+1,2026-06-01,813240,31,Webequie,41414,Lemonade Fruit Bars,0.7496,2.362,7.874,1.575
+1,2026-06-01,813240,31,Webequie,13396,Chicken Corn Chowder Soup,1.1596,2.638,2.638,4.252
+1,2026-06-01,813240,31,Webequie,928,Chunky Classic Chicken Noodle Soup,1.1244,2.953,2.953,4.331
+1,2026-06-01,813240,31,Webequie,38318,Original Flavor Instant Oatmeal,0.6239,3.15,5.118,7.874
+1,2026-06-01,813240,31,Webequie,41290,Lemonade,3.4833,3.15,3.15,10.236
+1,2026-06-01,813240,31,Webequie,36144,Smoked Turkey Breast,0.4375,2.362,4.724,7.087
+1,2026-06-01,813240,31,Webequie,31437,Hearty Beef Barley RTS Soup,0.9061,2.756,4.134,4.331
+1,2026-06-01,813240,31,Webequie,36315,Low Fat Split Pea Soup,1.1552,2.874,2.874,4.252
+1,2026-06-01,813240,31,Webequie,3990,Natural Sharp Cheddar Sliced Cheese,0.5004,1.496,5.906,7.48
+1,2026-06-01,813240,31,Webequie,46941,Provolone Slices,0.5,1.098,5.35,8.65
+1,2026-06-01,813240,31,Webequie,42352,Swedish Meatballs,2.3125,9.449,7.48,2.362
+1,2026-06-01,813240,31,Webequie,9340,Homestyle Classics Meatloaf,0.6239,1.496,6.693,5.118
+1,2026-06-01,813240,31,Webequie,1263,American Cheese Slices 12 Count,0.5004,0.984,3.346,6.693
+1,2026-06-01,813240,31,Webequie,34827,Rich & Hearty New England Clam Chowder Soup,1.1552,2.756,2.756,4.331
+1,2026-06-01,944659,717,Webequie,8079,Premium Lots of Pulp Orange Juice,4.2329,3.543,3.543,10.63
+1,2026-06-01,944659,717,Webequie,26900,USDA AA Extra Large Eggs,1.5873,6.89,4.528,2.559
+1,2026-06-01,975061,814,Webequie,148,Nectarines,0.3086,3.15,3.15,2.953
+1,2026-06-01,975061,814,Webequie,38844,Oatmeal Raisin Walnut Energy Bar,0.1257,5.315,2.953,1.575
+1,2026-06-01,975061,814,Webequie,13380,Organic Blue Corn Tortilla Chips,0.75,3.15,7.874,11.811
+1,2026-06-01,1021018,972,Webequie,29646,Sweet & Salty Nut Peanut Granola Bars,0.5622,2.165,6.299,8.465
+1,2026-06-01,1021018,972,Webequie,41290,Lemonade,3.4833,3.15,3.15,10.236
+1,2026-06-01,1021018,972,Webequie,10673,Original Nooks & Crannies English Muffins,0.7496,5.906,5.906,2.953
+1,2026-06-01,1021018,972,Webequie,19604,Medium Scarlet Raspberries,0.3748,3.937,5.118,1.969
+1,2026-06-01,1021018,972,Webequie,20004,Chocolate Peanut Butter Nutrition Bars,0.3968,2.165,5.315,7.48
+1,2026-06-01,1021018,972,Webequie,9623,Sparkling Natural Spring Water,2.2046,2.992,2.992,10.63
+1,2026-06-01,1021018,972,Webequie,264,Non-Fat Blueberry on the Bottom Greek Yogurt,0.3307,2.559,2.559,2.756
+1,2026-06-01,1021018,972,Webequie,7533,Low-Fat Strawberry Banana on the Bottom Greek Yogurt,0.3307,2.953,2.953,2.362
+1,2026-06-01,1021018,972,Webequie,33791,Raspberry on the Bottom Nonfat Greek Yogurt,0.3307,2.953,2.953,2.362
+1,2026-06-01,1021018,972,Webequie,3431,Squeezed Lemonade,1.1729,2.756,2.756,9.843
+1,2026-06-01,1021018,972,Webequie,42834,Organic Mini Peeled Carrots,1.0009,2.362,5.709,8.071
+1,2026-06-01,1120875,125,Webequie,5296,Roasted Salted Almonds,1.0,2.598,6.402,8.598
+1,2026-06-01,1120875,125,Webequie,12564,Rigatoni Pasta,1.0,2.85,4.799,7.358
+1,2026-06-01,1120875,125,Webequie,39707,Breakfast Claws,0.6261,4.724,7.874,2.756
+1,2026-06-01,1120875,125,Webequie,26965,Fruit Horns,0.6614,7.874,5.906,3.15
+1,2026-06-01,1120875,125,Webequie,31876,Fresh Scent Speed Stick Deodorant,0.1676,1.772,2.756,6.102
+1,2026-06-01,1120875,125,Webequie,12620,Garlic Bread,0.625,2.756,9.449,1.969
+1,2026-06-01,1120875,125,Webequie,14197,Tomato Paste,0.375,1.575,2.559,4.528
+1,2026-06-01,1120875,125,Webequie,42677,Ultra Apple Blossom Antibacterial Dish Liquid,2.4692,11.201,4.5,2.701
+1,2026-06-01,1120875,125,Webequie,15850,Zingers Cakes,0.7496,3.15,7.087,5.118
+1,2026-06-01,1120875,125,Webequie,48320,"PODS Laundry Detergent, Original Designed for Regular and HE Washers Laundry",1.3228,3.937,7.874,9.843
+1,2026-06-01,1120875,125,Webequie,37283,Homestyle Meatballs,1.625,7.087,5.118,1.969
+1,2026-06-01,1120875,125,Webequie,30960,Regular Pork Sausage Tube,1.0009,7.874,2.756,2.756
+1,2026-06-01,1120875,125,Webequie,4136,Living Herbs Potted Living Basil,0.2646,5.906,5.906,11.811
+1,2026-06-01,1120875,125,Webequie,22395,Tomato Sauce,0.937,2.559,2.953,4.528
+1,2026-06-01,1120875,125,Webequie,8670,Diced Tomatoes,0.9063,2.638,2.638,4.331
+1,2026-06-01,1120875,125,Webequie,37543,Spiced Rum,1.5719,3.15,3.15,11.811
+1,2026-06-01,1126181,563,Webequie,39180,Organic Lowfat 1% Milk,4.2549,2.559,3.74,9.055
+1,2026-06-01,1126181,563,Webequie,14183,Fruit & Nutty Almonds Raisins Cranberries Pecans Granola,1.1023,3.15,7.087,9.843
+1,2026-06-01,1126181,563,Webequie,16987,Organic Love Crunch Dark Chocolate Macaroon Granola,0.6878,3.15,6.299,9.449
+1,2026-06-01,1126181,563,Webequie,22959,Reduced Fat Milk 100% Lactose Free,2.0856,2.953,2.953,9.646
+1,2026-06-01,1126181,563,Webequie,34565,Peanut Butter Whole Grain Clusters,0.7496,2.756,7.087,9.843
+1,2026-06-01,1126181,563,Webequie,39947,Blackberry Cucumber Sparkling Water,9.3696,7.874,5.315,5.512
+1,2026-06-01,1126181,563,Webequie,46516,Sesame Bagels,0.875,9.055,6.299,3.937
+1,2026-06-01,1126181,563,Webequie,14947,Pure Sparkling Water,2.2046,3.15,3.15,11.811
+1,2026-06-01,1126181,563,Webequie,30561,Plain Bagelettes,1.125,9.055,5.906,3.15
+1,2026-06-01,1175191,240,Webequie,34643,Dry Roasted Macadamias,0.3125,5.906,3.543,8.268
+1,2026-06-01,1175191,240,Webequie,43352,Raspberries,0.3748,4.921,3.74,1.772
+1,2026-06-01,1177429,621,Webequie,42828,Whipped Cream Cheese,0.75,2.953,2.953,3.346
+1,2026-06-01,1177429,621,Webequie,21267,Sourdough Bread,1.5,3.937,5.906,6.693
+1,2026-06-01,1177429,621,Webequie,34050,Orange Juice,3.3903,2.756,3.937,9.449
+1,2026-06-01,1177429,621,Webequie,4942,Vanilla Almond Breeze,4.2108,3.543,2.362,9.055
+1,2026-06-01,1177429,621,Webequie,36606,Sprouted Multi-Grain Bread,1.4991,3.15,4.724,6.693
+1,2026-06-01,1177429,621,Webequie,44560,Kids Organic Chocolate Chip ZBars,0.5622,2.362,5.906,7.874
+1,2026-06-01,1177429,621,Webequie,28553,Whole Strawberries,1.0,2.953,6.496,8.268
+1,2026-06-01,1177429,621,Webequie,40709,Sea Salt & Vinegar Potato Chips,0.1323,3.15,7.087,9.449
+1,2026-06-01,1177429,621,Webequie,10761,Organic Yokids Lemonade/Blueberry Variety Pack Yogurt Squeezers Tubes,3.5009,9.449,6.299,2.756
+1,2026-06-01,1177429,621,Webequie,28985,Michigan Organic Kale,0.4409,11.811,7.874,3.15
+1,2026-06-01,1177429,621,Webequie,35108,Salted Butter,1.0,6.102,2.953,2.756
+1,2026-06-01,1177429,621,Webequie,46724,Honey Vanilla Chamomile Caffeine-Free Herbal Tea,0.0816,2.953,2.559,5.118
+1,2026-06-01,1177429,621,Webequie,9346,"Organic Apple Cider Vinegar Drink, Concord Grape-Acai",1.0428,2.283,2.283,8.071
+1,2026-06-01,1177429,621,Webequie,4421,Organic Beef Uncured Hot Dogs,0.7496,2.559,5.512,9.055
+1,2026-06-01,1177429,621,Webequie,19048,Organic Butternut Squash,1.9842,7.087,5.906,5.906
+1,2026-06-01,1177429,621,Webequie,38273,Marinara Pasta Sauce,1.5,3.189,3.189,6.882
+1,2026-06-01,1177429,621,Webequie,32717,Baked Beans,0.9375,5.512,2.756,4.331
+1,2026-06-01,1177429,621,Webequie,35004,Macaroni Shells & White Cheddar Cheese,0.375,1.772,5.118,7.087
+1,2026-06-01,1177429,621,Webequie,12872,Penne Rigate,1.0,2.559,4.331,6.689
+1,2026-06-01,1177429,621,Webequie,11068,Medium Cheddar Cheese Block,1.0,2.362,4.134,7.087
+1,2026-06-01,1177429,621,Webequie,5337,Monterey Jack Cheese,0.5,2.362,5.118,7.874
+1,2026-06-01,1177429,621,Webequie,13733,Red Potatoes,0.3263,3.937,2.953,2.953
+1,2026-06-01,1177429,621,Webequie,35921,Organic Large Grade A Brown Eggs,1.3228,11.811,4.134,2.756
+1,2026-06-01,1177429,621,Webequie,22474,Cheddar Bunnies Snack Crackers,0.5004,2.756,5.906,8.661
+1,2026-06-01,1177429,621,Webequie,3481,Pineapple,1.9842,5.118,5.118,11.811
+1,2026-06-01,1177429,621,Webequie,4605,Yellow Onions,0.3263,3.543,3.543,3.15
+1,2026-06-01,1177429,621,Webequie,16185,Sharp Cheddar Cheese,0.5,3.937,2.756,1.181
+1,2026-06-01,1177429,621,Webequie,581,Garnet Sweet Potato (Yam),0.2866,5.0,2.0,2.0
+1,2026-06-01,1315177,531,Webequie,45511,Extra Beer Bottles,4.6826,6.299,4.331,9.449
+1,2026-06-01,1315177,531,Webequie,27086,Half & Half,2.1473,2.756,2.756,9.449
+1,2026-06-01,1315177,531,Webequie,6757,Beer Lager,4.7399,5.315,8.071,5.709
+1,2026-06-01,1315177,531,Webequie,40236,Diet Cherry Coke,9.3696,8.425,11.26,5.63
+1,2026-06-01,1560879,991,Webequie,8859,Natural Spring Water,3.3069,3.346,3.346,12.205
+1,2026-06-01,1616486,611,Webequie,38511,1 Ply Paper Towels,0.9921,4.331,4.331,11.024
+1,2026-06-01,1616486,611,Webequie,8950,Special K Double Chocolate Protein Meal Bar,0.3307,1.772,5.906,7.874
+1,2026-06-01,1616486,611,Webequie,8459,Lemon Lift Black Tea,0.0882,2.756,2.165,4.724
+1,2026-06-01,1616486,611,Webequie,4565,Baked Snack Crackers Original,0.5622,7.087,2.756,9.843
+1,2026-06-01,1616486,611,Webequie,40214,90 Calorie Chocolate Fudge Brownies,0.4365,1.969,5.512,7.48
+1,2026-06-01,1616486,611,Webequie,43295,Unsweetened Vanilla Almond Milk,4.2108,3.543,2.362,9.055
+1,2026-06-01,1838809,465,Webequie,19895,Sliced Prosciutto,0.25,6.299,4.331,0.984
+1,2026-06-01,1838809,465,Webequie,33433,French Vanilla Rice Pudding,0.2491,3.15,3.15,1.969
+1,2026-06-01,1838809,465,Webequie,18770,Uncured Italian Dry Salami,0.5,1.378,6.299,9.055
+1,2026-06-01,1838809,465,Webequie,32655,Organic Large Grade AA Brown Eggs,1.3228,11.811,4.134,2.756
+1,2026-06-01,1838809,465,Webequie,17758,Strawberry Rhubarb Yoghurt,0.3748,2.953,2.953,2.362
+1,2026-06-01,1838809,465,Webequie,27966,Organic Raspberries,0.375,4.921,4.921,1.772
+1,2026-06-01,1838809,465,Webequie,19706,Organic Nectarine,0.3086,1.772,2.756,2.756
+1,2026-06-01,1838809,465,Webequie,30391,Organic Cucumber,0.6548,1.772,2.559,7.874
+1,2026-06-01,1838809,465,Webequie,36676,Organic Plain Nonfat Yogurt,1.9996,5.118,5.118,6.299
+1,2026-06-01,1838809,465,Webequie,14651,Tommy/Kent/Keitt/Haden Mango,0.5512,3.543,3.15,5.906
+1,2026-06-01,1838809,465,Webequie,21405,"Organic Red Radish, Bunch",0.9921,2.362,5.906,9.055
+1,2026-06-01,1838809,465,Webequie,45224,Fior Di Latte Mozzarella,0.2756,2.756,4.331,2.362
+1,2026-06-01,1838809,465,Webequie,41950,Organic Tomato Cluster,1.4991,3.937,7.874,5.906
+1,2026-06-01,1838809,465,Webequie,21137,Organic Strawberries,1.0,7.48,4.528,3.071
+1,2026-06-01,1838809,465,Webequie,40268,Organic Wheat-Free & Gluten-Free Original Crackers,0.3131,2.165,6.299,8.661
+1,2026-06-01,1925317,811,Webequie,38400,Asparation/Broccolini/Baby Broccoli,0.5004,9.843,4.724,1.969
+1,2026-06-01,1925317,811,Webequie,39982,Sausage  Links,1.25,2.165,7.087,9.843
+1,2026-06-01,1925317,811,Webequie,11983,Simply 100 Strawberry Blended Non-Fat Greek Yogurt,0.3312,3.74,3.74,2.26
+1,2026-06-01,1925317,811,Webequie,25804,Original Soy Milk,4.1667,4.0,4.0,9.5
+1,2026-06-01,1925317,811,Webequie,5077,100% Whole Wheat Bread,1.5,11.417,5.512,4.724
+1,2026-06-01,1925317,811,Webequie,42504,Original Seltzer Water,2.2046,3.346,3.346,12.205
+1,2026-06-01,1925317,811,Webequie,41625,Organic Half Spring Mix,0.3131,7.087,4.724,1.969
+1,2026-06-01,1925317,811,Webequie,15343,Coffee Blended Low-Fat Greek Yogurt,0.3307,2.953,2.953,2.165
+1,2026-06-01,1941074,612,Webequie,20280,Jumbo Lump Crab Cake,0.2491,3.937,3.937,1.181
+1,2026-06-01,1941074,612,Webequie,42265,Organic Baby Carrots,1.0009,2.362,5.512,8.661
+1,2026-06-01,1941074,612,Webequie,276,French Vanilla Ice Cream,2.9983,8.071,8.071,5.512
+1,2026-06-01,1941074,612,Webequie,46979,Asparagus,1.0009,3.937,7.087,11.024
+1,2026-06-01,1941074,612,Webequie,4920,Seedless Red Grapes,1.9996,4.724,7.874,3.937
+1,2026-06-01,1941074,612,Webequie,49401,"Chicken Base, Organic",1.0009,2.756,2.756,3.543
+1,2026-06-01,1941074,612,Webequie,40706,Organic Grape Tomatoes,0.625,2.362,5.709,2.165
+1,2026-06-01,1941074,612,Webequie,13380,Organic Blue Corn Tortilla Chips,0.75,3.15,7.874,11.811
+1,2026-06-01,1941074,612,Webequie,24964,Organic Garlic,0.0992,2.165,2.165,2.362
+1,2026-06-01,1941074,612,Webequie,38508,Lightly Salted Kettle Potato Chips - Sea Salt,0.5004,4.331,7.874,12.205
+1,2026-06-01,1941074,612,Webequie,21267,Sourdough Bread,1.5,3.937,5.906,6.693
+1,2026-06-01,1941074,612,Webequie,8479,Original Black Box Tablewater Cracker,0.5622,2.165,7.48,10.63
+1,2026-06-01,1941074,612,Webequie,33731,Grated Parmesan,0.5,2.756,2.756,6.693
+1,2026-06-01,1993081,215,Webequie,31764,Original Sparkling Seltzer Water Cans,9.3917,10.63,7.874,5.512
+1,2026-06-01,1993081,215,Webequie,49683,Cucumber Kirby,0.5512,7.874,1.969,1.969
+1,2026-06-01,1993081,215,Webequie,49481,Original Barbecue Sauce,1.1244,1.799,3.598,7.299
+1,2026-06-01,1993081,215,Webequie,31683,Original No Pulp 100% Florida Orange Juice,4.0565,3.543,2.953,9.252
+1,2026-06-01,1993081,215,Webequie,46673,Ultra Original Scent Dishwashing Liquid,2.4692,11.201,4.5,2.701
+1,2026-06-01,2112627,285,Webequie,11123,Vitamin Water Zero Squeezed Lemonade,1.3029,2.559,2.559,8.465
+1,2026-06-01,2112627,285,Webequie,30450,Creamy Almond Butter,1.0,2.756,3.346,5.118
+1,2026-06-01,2112627,285,Webequie,5451,Organic Zucchini Spirals,0.6239,7.874,5.906,1.969
+1,2026-06-01,2112627,285,Webequie,44359,Organic Small Bunch Celery,0.7496,3.937,7.087,11.811
+1,2026-06-01,2112627,285,Webequie,32429,Red Mango,0.6614,3.937,3.15,6.299
+1,2026-06-01,2112627,285,Webequie,3390,Papaya,1.5432,9.843,5.906,5.906
+1,2026-06-01,2112627,285,Webequie,20574,Roasted Turkey,0.5004,1.181,5.906,7.874
+1,2026-06-01,2121856,241,Webequie,4605,Yellow Onions,0.3263,3.543,3.543,3.15
+1,2026-06-01,2121856,241,Webequie,25084,Philadelphia Whipped Cream Cheese Spread with Chives,0.5004,3.937,3.937,2.362
+1,2026-06-01,2121856,241,Webequie,14680,Breakfast Sausage  Egg & Cheese,0.5004,2.165,7.283,9.449
+1,2026-06-01,2121856,241,Webequie,22282,"Ultra Soft Bathroom Tissue, Double Rolls",1.9842,7.48,7.48,8.268
+1,2026-06-01,2121856,241,Webequie,46572,Sweet Rolls,1.0,3.543,7.087,3.937
+1,2026-06-01,2121856,241,Webequie,15404,Fresh Sliced Mozzarella,1.0,2.756,5.906,3.937
+1,2026-06-01,2121856,241,Webequie,47931,Diet Cola,4.5415,3.346,3.346,12.205
+1,2026-06-01,2121856,241,Webequie,35424,Spring Water Antibacterial Liquid Hand Soap with Moisturizer,0.7804,2.559,3.346,8.858
+1,2026-06-01,2258247,664,Webequie,432,Vanilla Almond Breeze Almond Milk,4.2329,2.559,3.937,8.268
+1,2026-06-01,2258247,664,Webequie,41618,Gluten Free Uncured Frozen Pepperoni Pizza,0.8818,12.205,12.205,1.969
+1,2026-06-01,2258247,664,Webequie,47610,"Pretzel Sticks, Gluten Free",0.5,2.756,7.087,10.236
+1,2026-06-01,2258247,664,Webequie,14811,Healthy Grains Low Fat Banana Nut Clusters,0.6878,2.953,7.874,11.024
+1,2026-06-01,2258247,664,Webequie,9076,Blueberries,0.7496,6.299,2.165,8.661
+1,2026-06-01,2258247,664,Webequie,37119,Uncured Pepperoni,0.5,1.181,3.937,5.906
+1,2026-06-01,2258247,664,Webequie,2450,Taco Seasoning,0.0625,1.496,1.969,5.315
+1,2026-06-01,2258247,664,Webequie,28553,Whole Strawberries,1.0,2.953,6.496,8.268
+1,2026-06-01,2455208,469,Webequie,1110,Broccoli Carrots Sugar Snap Peas & Water Chestnuts,1.0009,1.969,7.087,9.843
+1,2026-06-01,2455208,469,Webequie,39124,Half Tea & Half Lemonade,3.3951,2.953,2.953,10.63
+1,2026-06-01,2455208,469,Webequie,28465,Icelandic Style Skyr Blueberry Non-fat Yogurt,0.3307,2.953,2.953,2.362
+1,2026-06-01,2455208,469,Webequie,8309,Nonfat Icelandic Style Strawberry Yogurt,0.375,2.598,2.598,3.5
+1,2026-06-01,2455208,469,Webequie,33816,Yellow Nectarines,0.3086,2.953,2.953,2.559
+1,2026-06-01,2518511,816,Webequie,39182,"Soup, Traditional, with Tofu",0.873,2.559,3.346,4.528
+1,2026-06-01,2518511,816,Webequie,8518,Organic Red Onion,0.3263,3.15,3.15,3.937
+1,2026-06-01,2518511,816,Webequie,23541,Veri Veri Teriyaki Marinade & Sauce,1.3029,2.165,2.165,8.071
+1,2026-06-01,2518511,816,Webequie,34448,Original Veggie Straws,0.4375,7.874,5.512,2.756
+1,2026-06-01,2518511,816,Webequie,162,Organic Mini Homestyle Waffles,0.5625,7.874,5.906,1.772
+1,2026-06-01,2518511,816,Webequie,3382,Organic Eggplant,0.9921,7.874,3.937,3.937
+1,2026-06-01,2518511,816,Webequie,45019,Organic White Hot Dog Buns,0.7496,5.512,5.512,7.087
+1,2026-06-01,2518511,816,Webequie,32734,Spaghetti,1.0,1.299,12.0,2.701
+1,2026-06-01,2518511,816,Webequie,24263,Organic Fettuccine,0.75,2.165,6.693,9.449
+1,2026-06-01,2518511,816,Webequie,41950,Organic Tomato Cluster,1.4991,3.937,7.874,5.906
+1,2026-06-01,2518511,816,Webequie,1057,"Basil, Asiago & Pine Nut Pesto Ravioli",0.5622,9.055,7.087,1.772
+1,2026-06-01,2518511,816,Webequie,13605,Frosted berry Strawberry Toaster Pastries,1.375,2.165,6.299,7.48
+1,2026-06-01,2518511,816,Webequie,13409,Dubliner Wedge Pre Cut Cheese,0.4365,1.772,3.346,4.724
+1,2026-06-01,2518511,816,Webequie,12099,Honey Greek Yogurt,2.0,3.937,3.937,7.087
+1,2026-06-01,2518511,816,Webequie,8277,Apple Honeycrisp Organic,0.5335,3.346,3.346,3.268
+1,2026-06-01,2518511,816,Webequie,47209,Organic Hass Avocado,0.3307,3.937,2.953,2.953
+1,2026-06-01,2518511,816,Webequie,11520,Large Alfresco Eggs,1.3228,2.559,6.102,2.953
+1,2026-06-01,2518511,816,Webequie,16913,"Licorice, Soft",0.7496,2.362,6.299,9.055
+1,2026-06-01,2518511,816,Webequie,16797,Strawberries,1.0,7.48,4.528,3.071
+1,2026-06-01,2518511,816,Webequie,9076,Blueberries,0.7496,6.299,2.165,8.661
+1,2026-06-01,2518511,816,Webequie,2295,Yellow Bell Pepper,0.3263,3.937,3.346,5.118
+1,2026-06-01,2518511,816,Webequie,17794,Carrots,0.172,7.0,1.252,1.252
+1,2026-06-01,2518511,816,Webequie,49683,Cucumber Kirby,0.5512,7.874,1.969,1.969
+1,2026-06-01,2518511,816,Webequie,9387,Granny Smith Apples,0.5335,2.953,2.953,3.071
+1,2026-06-01,2518511,816,Webequie,21183,Organic Gold Beet Bunch,1.0009,4.724,7.087,9.843
+1,2026-06-01,2518511,816,Webequie,40353,Gluten Free Vegan Not-Chick'n Natural Bouillon Cubes,0.1565,3.937,1.575,2.362
+1,2026-06-01,2518511,816,Webequie,34050,Orange Juice,3.3903,2.756,3.937,9.449
+1,2026-06-01,2518511,816,Webequie,40545,Berry Medley,1.0,1.969,5.906,9.055
+1,2026-06-01,2518511,816,Webequie,4799,Shredded Parmesan,0.375,7.087,5.118,1.575
+1,2026-06-01,2518511,816,Webequie,8424,Broccoli Crown,0.6614,5.906,4.724,3.937
+1,2026-06-01,2518511,816,Webequie,28985,Michigan Organic Kale,0.4409,11.811,7.874,3.15
+1,2026-06-01,2518511,816,Webequie,21903,Organic Baby Spinach,0.3125,3.0,7.799,10.0
+1,2026-06-01,2518511,816,Webequie,30720,Sugar Snap Peas,0.5004,7.087,5.512,1.969
+1,2026-06-01,2518511,816,Webequie,47626,Large Lemon,0.3086,3.15,2.953,2.953
+1,2026-06-01,2518511,816,Webequie,35951,Organic Unsweetened Almond Milk,4.1667,2.559,3.74,8.858
+1,2026-06-01,2518511,816,Webequie,31717,Organic Cilantro,0.0617,11.811,5.906,1.969
+1,2026-06-01,2518511,816,Webequie,46667,Organic Ginger Root,0.3748,4.724,2.756,1.575
+1,2026-06-01,2587092,276,Webequie,11422,Plain Greek Yogurt,2.0,5.512,5.512,3.937
+1,2026-06-01,2587092,276,Webequie,11361,Pure Almond Unsweetened Original Almond Milk,4.2329,2.953,3.74,9.252
+1,2026-06-01,2587092,276,Webequie,5776,Lubricant Eye Drops,0.0397,1.378,2.165,4.921
+1,2026-06-01,2587092,276,Webequie,38194,Venus Embrace Women's Razor Blade Refills,0.0882,1.378,3.15,4.724
+1,2026-06-01,2796120,107,Webequie,23334,Protein Zone Double Berry Juice Smoothie,0.9921,2.165,2.756,7.677
+1,2026-06-01,2796120,107,Webequie,3696,Original Baked Snack Crackers,0.5004,2.559,7.677,10.236
+1,2026-06-01,2796120,107,Webequie,23175,Lemon Lime Soda Mini Cans,2.8131,5.315,7.874,5.315
+1,2026-06-01,2796120,107,Webequie,41155,Mega Stuffed Cookies,0.8378,7.874,3.937,1.969
+1,2026-06-01,2796120,107,Webequie,2229,Uncrustables Peanut Butter & Strawberry Spread Sandwich,0.4982,7.48,4.724,2.362
+1,2026-06-01,2913699,772,Webequie,28156,Total 0% Nonfat Plain Greek Yogurt,0.3312,3.74,3.74,2.26
+1,2026-06-01,2913699,772,Webequie,34731,Organic Oregano Leaf,0.0463,1.772,1.772,4.331
+1,2026-06-01,2913699,772,Webequie,44683,Brussels Sprouts,1.0009,9.449,6.299,3.15
+1,2026-06-01,2913699,772,Webequie,27845,Organic Whole Milk,4.2108,3.748,3.748,9.5
+1,2026-06-01,2913699,772,Webequie,40545,Berry Medley,1.0,1.969,5.906,9.055
+1,2026-06-01,2913699,772,Webequie,12341,Hass Avocados,1.1244,7.874,5.906,3.937
+1,2026-06-01,2913699,772,Webequie,16797,Strawberries,1.0,7.48,4.528,3.071
+1,2026-06-01,3166642,421,Webequie,11250,Organic Hot Salsa,1.0,2.756,3.15,4.724
+1,2026-06-01,3166642,421,Webequie,11087,Organic Unsweetened Black Tea,0.0882,2.559,1.89,4.921
+1,2026-06-01,3166642,421,Webequie,42214,Bandages,0.1874,0.984,3.937,6.693
+1,2026-06-01,3166642,421,Webequie,49191,Cran Raspberry Sparkling Water,6.2589,2.598,7.795,5.236
+1,2026-06-01,3183523,461,Webequie,1409,Dairy Free Coconut Milk Passionate Mango Yogurt Alternative,0.3307,2.953,2.953,2.165
+1,2026-06-01,3183523,461,Webequie,16663,Mozzarella Style Slices,0.5004,1.378,4.724,7.48
+1,2026-06-01,3183523,461,Webequie,8710,Dairy Free Coconut Milk Blueberry Yogurt Alternative,0.3307,3.15,3.15,2.362
+1,2026-06-01,3344633,988,Webequie,3259,Montreal Steak Seasoning,0.1874,2.756,2.756,5.512
+1,2026-06-01,3344633,988,Webequie,11266,Dried Mangos,0.3748,1.969,5.512,8.268
+1,2026-06-01,3346167,496,Webequie,24180,Far Out Fudge Veggie and Fruit Pops,0.6614,7.874,5.512,1.969
+1,2026-06-01,3346167,496,Webequie,33000,Pure Irish Butter,0.5,2.953,5.118,1.575
+1,2026-06-01,3346167,496,Webequie,11520,Large Alfresco Eggs,1.3228,2.559,6.102,2.953
+1,2026-06-01,3404566,443,Webequie,24303,Spicy Mango With Jalapeño Smoked Chicken Sausage,0.7496,2.756,5.906,1.772
+1,2026-06-01,3404566,443,Webequie,28375,Natural Cedar Scent Toilet Cleaner,1.5653,2.283,2.756,9.843
+1,2026-06-01,3404566,443,Webequie,32156,Cranberry Juice Cocktail,4.1667,3.661,4.63,10.299
+1,2026-06-01,3404566,443,Webequie,1321,Plain Grade A  0% Fat Greek Yogurt,0.3312,3.74,3.74,2.26
+1,2026-06-01,3404566,443,Webequie,1511,2% Reduced Fat DHA Omega-3 Reduced Fat Milk,8.576,3.937,6.299,10.63
+1,2026-06-01,3404566,443,Webequie,28985,Michigan Organic Kale,0.4409,11.811,7.874,3.15
+1,2026-06-01,3404566,443,Webequie,41463,Cannellini Beans,0.9688,6.102,4.134,2.677
+1,2026-06-01,3404566,443,Webequie,48364,Sweet Onion,0.3263,3.937,3.937,3.15
+1,2026-06-01,3404566,443,Webequie,32624,Acorn Squash,1.5432,5.906,5.906,5.118
